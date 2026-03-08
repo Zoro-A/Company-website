@@ -111,10 +111,10 @@ export default function AboutPage() {
                             <h2 className="text-2xl font-bold text-white mb-4">Our Vision</h2>
                             <p className="text-slate-400 leading-relaxed">
                                 A world where fraud is so rare it barely registers — where no
-                                customer's account is drained overnight, no business loses
+                                customer&apos;s account is drained overnight, no business loses
                                 revenue to chargebacks, and no bank faces regulatory fines over
                                 preventable losses. We envision a financial ecosystem where AI
-                                keeps pace with threats so humans don't have to.
+                                keeps pace with threats so humans don&apos;t have to.
                             </p>
                         </div>
                     </div>
@@ -247,7 +247,7 @@ export default function AboutPage() {
                         Join Our Mission
                     </h2>
                     <p className="text-slate-400 text-lg mb-8">
-                        Protect millions of transactions with AI. Let's build together.
+                        Protect millions of transactions with AI. Let&apos;s build together.
                     </p>
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                         <Link href="/contact" className="btn-primary px-8 py-4 text-base">

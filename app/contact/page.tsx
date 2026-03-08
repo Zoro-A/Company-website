@@ -81,7 +81,7 @@ export default function ContactPage() {
                         Contact Us
                     </span>
                     <h1 className="text-5xl md:text-6xl font-black text-white mb-6">
-                        Let's <span className="text-gradient-cyan">Connect</span>
+                        Let&apos;s <span className="text-gradient-cyan">Connect</span>
                     </h1>
                     <p className="text-slate-400 text-xl max-w-xl mx-auto">
                         Ready to protect your transactions? Our team is standing by to help
