@@ -127,7 +127,7 @@ export default function HomePage() {
                     </h1>
 
                     <p className="text-xl text-slate-400 max-w-2xl mx-auto mb-4 leading-relaxed">
-                        <span className="text-white font-semibold italic">"Trust Every Transaction."</span>
+                        <span className="text-white font-semibold italic">&quot;Trust Every Transaction.&quot;</span>
                     </p>
                     <p className="text-lg text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed">
                         Phi-Delity uses advanced machine learning to detect and prevent
