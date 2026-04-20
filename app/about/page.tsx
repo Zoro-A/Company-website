@@ -36,24 +36,24 @@ const values = [
 
 const team = [
     {
-        initials: "AR",
-        name: "Ayesha Rahman",
+        initials: "MIA",
+        name: "Mahhee Ibn Ahmar Bukhari",
         role: "Chief Executive Officer",
-        bio: "Former VP at Visa with 15+ years in financial technology. Ayesha founded Phi-Delity after witnessing firsthand how legacy fraud systems failed to keep pace with modern attack vectors. She holds an MBA from Wharton and a BS in Computer Science from MIT.",
+        bio: "A visionary leader driving Phi-Delity's mission to make every financial transaction trustworthy. With a deep passion for AI and financial technology, Mahhee founded Phi-Delity to bring next-generation fraud detection to enterprises worldwide.",
         gradient: "from-cyan-500 to-blue-600",
     },
     {
-        initials: "KM",
-        name: "Kamran Mirza",
-        role: "Chief Technology Officer",
-        bio: "PhD in Machine Learning from Stanford. Previously led the fraud ML team at Stripe, where he built models protecting billions in annual transaction volume. Kamran holds 7 patents in applied machine learning for financial security systems.",
+        initials: "HH",
+        name: "Hamza Hussain",
+        role: "Chief Financial Officer",
+        bio: "A seasoned finance strategist overseeing Phi-Delity's financial operations, growth planning, and investor relations. Hamza brings sharp analytical acumen and a proven track record in scaling fintech ventures across global markets.",
         gradient: "from-blue-500 to-purple-600",
     },
     {
-        initials: "SF",
-        name: "Sara Farooq",
-        role: "Chief Operating Officer",
-        bio: "Veteran fintech operator with prior leadership roles at Adyen and Revolut. Sara has scaled operations teams across three continents and is passionate about building systems that are both secure and seamlessly usable for end customers.",
+        initials: "MF",
+        name: "Muhammad Faizan",
+        role: "Chief Technology Officer",
+        bio: "An expert in machine learning and distributed systems, Muhammad leads Phi-Delity's engineering and AI research teams. He architects the core fraud detection engine and ensures the platform remains at the cutting edge of AI-powered security.",
         gradient: "from-purple-500 to-cyan-500",
     },
 ];
